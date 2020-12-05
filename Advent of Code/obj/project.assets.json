@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\thomas.farrell\\.nuget\\packages\\": {}
+    "C:\\Users\\tjfar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thomas.farrell\\Documents\\Advent of Code\\Advent of Code.csproj",
+      "projectUniqueName": "C:\\Users\\tjfar\\Documents\\Advent of Code\\AdventOfCode\\Advent of Code\\Advent of Code.csproj",
       "projectName": "Advent of Code",
-      "projectPath": "C:\\Users\\thomas.farrell\\Documents\\Advent of Code\\Advent of Code.csproj",
-      "packagesPath": "C:\\Users\\thomas.farrell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thomas.farrell\\Documents\\Advent of Code\\obj\\",
+      "projectPath": "C:\\Users\\tjfar\\Documents\\Advent of Code\\AdventOfCode\\Advent of Code\\Advent of Code.csproj",
+      "packagesPath": "C:\\Users\\tjfar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tjfar\\Documents\\Advent of Code\\AdventOfCode\\Advent of Code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thomas.farrell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tjfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
