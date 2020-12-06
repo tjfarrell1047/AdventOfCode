@@ -13,7 +13,7 @@ namespace Advent_of_Code
             // Console.Write("Choose a day:");
             // int day = Convert.ToInt32(Console.ReadLine());
 
-            int day = 5;
+            int day = 6;
             int year = 2020;
             bool useEx = false;
 
@@ -91,10 +91,10 @@ namespace Advent_of_Code
                      Console.WriteLine("2020 Day 5");
                      AoC2020.Day5 d5 = new AoC2020.Day5(ip);
                      break;
-                // case 6:
-                //     Console.WriteLine("2020 Day 6");
-                //     AoC2020.Day6 d6 = new AoC2020.Day6(ip);
-                //     break;             
+                 case 6:
+                     Console.WriteLine("2020 Day 6");
+                     AoC2020.Day6 d6 = new AoC2020.Day6(ip);
+                     break;             
                 // case 7:
                 //     Console.WriteLine("2020 Day 7");
                 //     AoC2020.Day7 d7 = new AoC2020.Day7(ip);
