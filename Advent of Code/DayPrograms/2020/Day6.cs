@@ -53,7 +53,7 @@ namespace AoC2020
             Console.WriteLine("Part 1: " + P1Count);
             Console.WriteLine("Part 2: " + P2Count);
 
-        }
+        1
 
     }
 }
